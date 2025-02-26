@@ -14,5 +14,5 @@ Simple script that allows you to know if there are malicious connections on your
 ```
 
 ## Output Example 
-![Logo](https://i.imgur.com/ROV5uV2.png)
+![Output](https://i.imgur.com/VLQpfeQ.png)
 
